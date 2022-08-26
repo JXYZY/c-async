@@ -1,0 +1,15 @@
+﻿生成启动时间为 2022/8/26 16:06:04。
+     1>项目“E:\c++practise\async\async_future_get\async_future_get\async_future_get.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         D:\IDES\vs2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\async_future_get.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt async_future_get.cpp
+         async_future_get.cpp
+       Link:
+         D:\IDES\vs2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c++practise\async\async_future_get\..\Debug\async_future_get.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\c++practise\async\async_future_get\..\Debug\async_future_get.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c++practise\async\async_future_get\..\Debug\async_future_get.lib" /MACHINE:X86 Debug\async_future_get.obj
+         Debug\stdafx.obj
+         async_future_get.vcxproj -> E:\c++practise\async\async_future_get\..\Debug\async_future_get.exe
+     1>已完成生成项目“E:\c++practise\async\async_future_get\async_future_get\async_future_get.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.48
